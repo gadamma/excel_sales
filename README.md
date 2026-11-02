@@ -10,4 +10,5 @@ The data shows records of purchases made by customers of this tech store across 
 Here are the conclusions and recommendations made using the dashboard:
 - Sale of accessories sold the highest quantity but yielded lower profits than some other categories, which makes sense as the profit margin of said accessories are lower. Phones contributed the highest number of sales revenue, with both types sold making it to the top 5 products by sales. Appliances neither sold a lot of units nor made a good amount of revenue. Consider discontinuing sales of appliances?
 - Sales started rising in October and peaked in December, which coincides with the holiday season. Maybe extra promotion starting in September may be a good idea as people are starting to think about holiday shopping.
-- 
+- San Francisco is where the store earns the most in sales. Maybe look into what makes the San Francisco location so successful and see if those insights can be applied to the other stores. 
+
